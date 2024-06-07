@@ -8,6 +8,10 @@
 ![image](https://github.com/dimindrol/ELK_11-03_pergunov/assets/103885836/934240db-9be9-40b0-9d90-c64d42cbec8b)
 ![image](https://github.com/dimindrol/ELK_11-03_pergunov/assets/103885836/151ea1b5-228d-44d9-b0a8-8168189d4c09)
 ### Задание 3  
+Установите и запустите Logstash и Nginx. С помощью Logstash отправили access-лог Nginx в Elasticsearch
+![image](https://github.com/dimindrol/ELK_11-03_pergunov/assets/103885836/0a1a2973-cd2a-4ab9-8a32-2113583267da)
+![image](https://github.com/dimindrol/ELK_11-03_pergunov/assets/103885836/80190ad5-a453-4d97-a11f-7a5cc8dfa61d)
+![image](https://github.com/dimindrol/ELK_11-03_pergunov/assets/103885836/1106cd15-fb7f-498b-b611-b0a6b3e7970c)
 
 ### Задание 4  
 Установили Filebeat и настроили отправку логов через Filebeat
